@@ -12,7 +12,7 @@ Windows用に作成したPowerShellスクリプトを公開しています。
 現在の実行ポリシーの確認方法は、
 - PowerShellを管理者として実行する
 - 以下のコマンドを実行する。
-  <br><kbd>Get-ExecutionPolicy
+  <kbd>Get-ExecutionPolicy
 スクリプトを実行できるように設定を変更するには、以下のコマンドを実行する。
-  <br><kbd>Set-ExecutionPolicy RemoteSigned
+  <kbd>Set-ExecutionPolicy RemoteSigned
 これで、スクリプトを実行できるようになります。スクリプトを実行したら、実行ポリシーを元に戻しておくことをオススメします。
